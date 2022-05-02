@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<pacman>
+    <client>
+        <ip>localhost</ip>
+        <port>4444</port>
+    </client>
+    <server>
+        <port>4444</port>
+    </server>
+</pacman>
